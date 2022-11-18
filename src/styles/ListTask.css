@@ -1,0 +1,6 @@
+.container-tasks {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}

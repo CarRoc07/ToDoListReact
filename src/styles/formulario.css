@@ -1,0 +1,30 @@
+.tarea-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.tarea-input {
+    width: 300px;
+    font-size: 20px;
+    background-color: white;
+    padding: 16px;
+    border-radius: 5px 0px 0px 5px;
+    border: 2px solid black;
+    outline: none;
+}
+
+.tarea-button-add, .tarea-button-reset {
+    padding: 16px;
+    font-size: 20px;
+    border: 2px solid black;
+    cursor: pointer;
+    outline: none;
+    color: white;
+    background-color: black;
+}
+
+.tarea-button-reset {
+    border-radius: 0px 4px 4px 0px;
+}
